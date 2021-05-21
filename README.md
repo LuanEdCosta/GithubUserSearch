@@ -8,3 +8,7 @@ I had a lot of demand for apps that would work on Android and iOS phones at work
 - I learn a lot from [RocketSeat](https://rocketseat.com.br/) and they use OMNI stack in their projects (which influenced me a lot to choose this stack too)
 - The React and React Native community is very large
 - Large companies use React or React Native, such as Facebook Uber, Twitch, Microsoft, Wix and many others
+
+## :man: Author
+
+Luan Eduardo da Costa | [Follow me on Linkedin](https://www.linkedin.com/in/luaneducosta/)
